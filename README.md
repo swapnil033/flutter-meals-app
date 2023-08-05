@@ -2,6 +2,8 @@
 
 A meal app designed in flutter.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-1zNaY9l8Qg/0.jpg)](https://www.youtube.com/watch?v=-1zNaY9l8Qg)
+
 ## Description
 
 This flutter app just consist of 4 screens.
